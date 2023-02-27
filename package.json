@@ -1,0 +1,15 @@
+{
+  "name": "@hydrooj/language-packs",
+  "version": "1.0.0",
+  "private": true,
+  "repository": "https://github.com/hydro-dev/language-packs",
+  "author": "undefined <i@undefined.moe>",
+  "license": "MIT",
+  "scripts": {
+    "generate": "node -r @hydrooj/utils/lib/register scripts/build.ts"
+  },
+  "devDependencies": {
+    "@hydrooj/utils": "^1.4.8",
+    "@types/node": "^18.14.2"
+  }
+}
