@@ -1,9 +1,9 @@
-'"{data}" copied to clipboard!': '"{data}" copied to clipboard!'
+'"{data}" copied to clipboard!': '"{data}" 已複製到剪貼板！'
 (All Problems): (All Problems)
-(None): (None)
-(Not changed): (Not changed)
+(None): (無)
+(Not changed): (未更改)
 '{0} {1} delete your discussion reply {2} in "{3}"({4}).': '{0} {1} delete your discussion reply {2} in "{3}"({4}).'
-'{0} comments': '{0} comments'
+'{0} comments': '{0} 則回應'
 '{0} discussions': '{0} discussions'
 '{0} is a moderator of this domain.': '{0} is a moderator of this domain.'
 '{0} limit exceeded (limit: {2} operations in {1} seconds).': '{0} limit exceeded (limit: {2} operations in {1} seconds).'
