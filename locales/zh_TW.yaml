@@ -1,79 +1,79 @@
-__id: en
-__langname: English
-Can be Extended For: Extension
-contest_create: Contest Create
-contest_detail_problem_submit: Submit Contest Problem
+__id: zh_TW
+__langname: 正體中文
+Can be Extended For: 可延期
+contest_create: 創建比賽
+contest_detail_problem_submit: 遞交比賽程式碼
 contest_detail_problem: Problem Detail
 contest_detail: Contest Detail
-contest_edit: Contest Edit
-contest_main: Contest
+contest_edit: 編輯比賽
+contest_main: 比賽
 contest_manage: Contest Management
 contest_problemlist: Problem List
-contest_scoreboard: Scoreboard
+contest_scoreboard: 比賽成績表
 contest_user: Attendee Manage
-discussion_create: Create Discussion
+discussion_create: 創建討論
 discussion_detail: Discussion Detail
-discussion_edit: Discussion Edit
-discussion_main: Discussion
-discussion_node: Discussion
+discussion_edit: 編輯討論
+discussion_main: 討論
+discussion_node: 討論
 display_name: Display Name
 domain_dashboard: Dashboard
 domain_discussion: Discussion Nodes
 domain_edit: Edit Info
 domain_group: Manage Groups
 domain_join_applications: Join Applications
-domain_main: Main
+domain_main: 首頁
 domain_permission: System Permission
 domain_role: System Role
 domain_user: System User
 fs_upload: File Upload
-home_account: Account Settings
-home_domain_account: Profile @ Domain
-home_domain_create: Create Domain
-home_domain: My Domains
-home_messages: Messages
-home_preference: Preference
-home_security: Security
+home_account: 賬戶設定
+home_domain_account: 當前域的設定
+home_domain_create: 創建域
+home_domain: 我的域
+home_messages: 站內訊息
+home_preference: 偏好設定
+home_security: 安全設定
 homepage: Home
-homework_create: Homework Create
+homework_create: 創建功課
 homework_detail_problem_submit: Submit Homework Problem
-homework_edit: Homework Edit
-homework_main: Homework
-homework_scoreboard: Scoreboard
-judge_playground: Judge Playground
+homework_edit: 編輯功課
+homework_main: 功課
+homework_scoreboard: 成績表
+judge_playground: 評測遊樂場
 main: Home
-manage_dashboard: System
+manage_dashboard: 概況
 manage_module: Module Management
 manage_script: Scripts
 manage_setting: System Settings
 manage_user_import: Import Users
-manage: System Manage
-no_translation_warn: <blockquote class="warn">This part of content is under translation.</blockquote>
+manage: 管理
+no_translation_warn: <blockquote class="warn">這部分內容正在翻譯。</blockquote>
 page.problem_detail.sidebar.show_category: Click to Show
 page.training_detail.invalid_when_not_enrolled: You cannot view problem details unless enrolled.
 page.training_detail.see_other_user_detail: You are viewing user {0} training details.
-pager_first: '« First'
-pager_last: Last »
-pager_next: Next ›
-pager_previous: '‹ Previous'
-perm_contest: Contests
-perm_discussion: Discussions
-perm_general: General
+pager_first: '« 第一頁'
+pager_last: 末頁 »
+pager_next: 下一頁 ›
+pager_previous: '‹ 前一頁'
+perm_contest: 比賽
+perm_discussion: 討論
+perm_general: 一般
 perm_homework: Homework
-perm_problem_solution: Problem Solutions
-perm_problem: Problems
+perm_problem_solution: 題解
+perm_problem: 題庫
 perm_ranking: Ranking
-perm_record: Records
-perm_training: Trainings
-problem_create: Problem Create
+perm_record: 記錄
+perm_training: 訓練
+problem_create: 創建題目
 problem_detail: Problem Detail
-problem_edit: Problem Edit
+problem_edit: 編輯題目
 problem_files: Problem Files
 problem_import: Import Problem
-problem_main: Problem Set
-problem_solution: Problem Solution
+problem_main: 題庫
+problem_solution: 題解
 problem_statistics: Problem Statistics
-problem_submit: Problem Submit
+problem_submit: 遞交程式碼
 problem-category-delim: '|'
 problem-subcategory-delim: ', '
 problem.import.additional_file: '## Additional Files'
@@ -83,27 +83,27 @@ problem.import.limit_and_hint: '## Limits'
 problem.import.output_format: '## Output Format'
 problem.import.problem_description: '## Description'
 ranking: Ranking
-record_detail: Record Detail
-record_main: Record
-setting_customize: Customize
-setting_display: Display Preference
+record_detail: 記錄詳情
+record_main: 評測佇列
+setting_customize: 自訂
+setting_display: 顯示偏好
 setting_function: Function
-setting_info_domain: Personal Info
-setting_info: Personal Info
+setting_info_domain: 個人資訊
+setting_info: 個人資訊
 setting_preference: Preference
-setting_privacy: Privacy
+setting_privacy: 隱私
 setting_server: Server Settings
 setting_session: Session Settings
 setting_smtp: SMTP Settings
-setting_usage: Usage Preference
-timeago_locale: en_US
+setting_usage: 使用偏好
+timeago_locale: zh_TW
 training_create: Training Create
 training_detail: Training Detail
 training_edit: Training Edit
-training_main: Training
-user_detail: User Detail
-user_login: Login
-user_logout: Logout
-user_lostpass: Lost Password
-user_register: Register
+training_main: 訓練
+user_detail: 使用者
+user_login: 登入
+user_logout: 登出
+user_lostpass: 忘記密碼
+user_register: 註冊
 wiki_help: Help
