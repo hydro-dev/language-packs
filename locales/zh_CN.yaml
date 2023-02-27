@@ -1,0 +1,109 @@
+__id: zh
+__langname: 简体中文
+Can be Extended For: 可延期
+contest_create: 创建比赛
+contest_detail_problem_submit: 递交比赛题目
+contest_detail_problem: 题目详情
+contest_detail: 比赛详情
+contest_edit: 编辑比赛
+contest_main: 比赛
+contest_manage: 比赛管理
+contest_problemlist: 题目列表
+contest_scoreboard: 比赛成绩表
+contest_user: 参赛者管理
+discussion_create: 创建讨论
+discussion_detail: 讨论详情
+discussion_edit: 编辑讨论
+discussion_main: 讨论
+discussion_node: 讨论
+display_name: 显示名
+domain_dashboard: 管理域
+domain_discussion: 讨论节点
+domain_edit: 编辑域资料
+domain_group: 管理小组
+domain_join_applications: 加域申请
+domain_main: 首页
+domain_permission: 管理权限
+domain_role: 管理角色
+domain_user: 管理用户
+fs_upload: 上传文件
+home_account: 账户设置
+home_domain_account: 当前域的设置
+home_domain_create: 创建域
+home_domain: 我的域
+home_messages: 站内消息
+home_preference: 偏好设置
+home_security: 安全设置
+homepage: 首页
+homework_create: 创建作业
+homework_detail_problem_submit: 递交作业题目
+homework_edit: 编辑作业
+homework_main: 作业
+homework_scoreboard: 作业成绩表
+judge_playground: 评测游乐场
+main: Home
+manage_dashboard: 控制面板
+manage_module: 管理模块
+manage_script: Scripts
+manage_setting: 系统设置
+manage_user_import: 导入用户
+manage: 管理
+no_translation_warn: <blockquote class="warn">This part of content is under translation.</blockquote>
+page.problem_detail.sidebar.show_category: 点击显示
+page.training_detail.invalid_when_not_enrolled: 未参加训练计划时您不能查看题目详情。
+page.training_detail.see_other_user_detail: 您正在查看用户 {0} 的训练详情。
+pager_first: '« 第一页'
+pager_last: 末页 »
+pager_next: 下一页 ›
+pager_previous: '‹ 前一页'
+perm_contest: 比赛
+perm_discussion: 讨论
+perm_general: 一般
+perm_homework: 作业
+perm_problem_solution: 题解
+perm_problem: 题库
+perm_ranking: 排名
+perm_record: 记录
+perm_training: 训练
+problem_create: 创建题目
+problem_detail: 题目详情
+problem_edit: 编辑题目
+problem_files: 题目文件
+problem_import: 导入题目
+problem_main: 题库
+problem_solution: 题解
+problem_statistics: 题目统计
+problem_submit: 递交代码
+problem-category-delim: '|'
+problem-subcategory-delim: '、'
+problem.import.additional_file: '## 附加文件'
+problem.import.hint: '## 提示'
+problem.import.input_format: '## 输入格式'
+problem.import.limit_and_hint: '## 限制'
+problem.import.output_format: '## 输出格式'
+problem.import.problem_description: '## 题目描述'
+ranking: 排名
+record_detail: 记录详情
+record_main: 评测记录
+setting_customize: 个性化
+setting_display: 显示偏好
+setting_function: Function
+setting_info_domain: 个人信息
+setting_info: 个人信息
+setting_preference: Preference
+setting_privacy: 隐私
+setting_server: 服务器设置
+setting_session: Session 设置
+setting_smtp: SMTP 设置
+setting_usage: 使用偏好
+timeago_locale: zh_CN
+training_create: 创建训练
+training_detail: 训练详情
+training_edit: 编辑训练
+training_main: 训练
+user_detail: 用户
+user_login: 登录
+user_logout: 登出
+user_lostpass: 忘记密码
+user_register: 注册
+wiki_help: Help
