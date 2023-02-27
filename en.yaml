@@ -1,54 +1,556 @@
-__id: en
-__langname: English
+'"{data}" copied to clipboard!': '"{data}" copied to clipboard!'
+(All Problems): (All Problems)
+(None): (None)
+(Not changed): (Not changed)
+'{0} {1} delete your discussion reply {2} in "{3}"({4}).': '{0} {1} delete your discussion reply {2} in "{3}"({4}).'
+'{0} comments': '{0} comments'
+'{0} discussions': '{0} discussions'
+'{0} is a moderator of this domain.': '{0} is a moderator of this domain.'
+'{0} limit exceeded (limit: {2} operations in {1} seconds).': '{0} limit exceeded (limit: {2} operations in {1} seconds).'
+'{0} problems': '{0} problems'
+'{0} sections': '{0} sections'
+'{0} solutions': '{0} solutions'
+'{0} views': '{0} views'
+'{0}: Permissions': '{0}: Permissions'
+'{0}: Roles': '{0}: Roles'
+'{0}: Users': '{0}: Users'
+'# My Submissions': '# My Submissions'
+'# Submissions': '# Submissions'
+'↓ # Comments': '↓ # Comments'
+'↓ # Enrollees': '↓ # Enrollees'
+'↓ # Likes': '↓ # Likes'
+'↓ # Stars': '↓ # Stars'
+↓ Create Time: ↓ Create Time
+↓ Update Time: ↓ Update Time
+1 Hour: 1 Hour
+5 Min: 5 Min
+'A domain ID cannot be changed after creation. It is supposed to be:': 'A domain ID cannot be changed after creation. It is supposed to be:'
+Aborted: Aborted
+about: about
+About: About
+About {0}: About {0}
+About Markdown: About Markdown
+About test data: About test data
+AC Message: AC Message
+Accepted: Accepted
+Accepted Ratio: Accepted Ratio
+Access Control: Access Control
+Action: Action
+Active Sessions: Active Sessions
+Add: Add
+Add blacklist by ip, uid: Add blacklist by ip, uid
+Add module: Add module
+Add new data: Add new data
+Add User: Add User
+Additional File: Additional File
+Admin {0} delete your discussion "{1}".: Admin {0} delete your discussion "{1}".
+Admin {0} delete your discussion tail reply {1} in "{2}"({3}).: Admin {0} delete your discussion tail reply {1} in "{2}"({3}).
+All: All
+All {0} Contests: All {0} Contests
+All Contests: All Contests
+All Homeworks: All Homeworks
+All Submissions: All Submissions
+All Training Plans: All Training Plans
+Allow builtin-login: Allow builtin-login
+Allow users send messages: Allow users send messages
+Allow using gravatar:email qq:id github:name url:link format.: Allow using gravatar:email qq:id github:name url:link format.
+Allowed langs: Allowed langs
+Always granted all privileges: Always granted all privileges
+An error has occurred.: An error has occurred.
+An example of dataset: An example of dataset
+Any user is allowed to join this domain: Any user is allowed to join this domain
+Any user is allowed to join this domain with an invitation code: Any user is allowed to join this domain with an invitation code
+API: API
+Argument {0} is invalid.: Argument {0} is invalid.
+Arguments: Arguments
+astyle formatting options: astyle formatting options
+At least 4 characters: At least 4 characters
+Attend Contest: Attend Contest
+Attend contests: Attend contests
+Attended: Attended
+author: author
+Auto format code: Auto format code
+Avatar: Avatar
+Back to contest list: Back to contest list
+Be Copied: Be Copied
+Begin at: Begin at
+Begin Date: Begin Date
+Begin Time: Begin Time
+Belongs to: Belongs to
+Bio: Bio
+Bio Visibility: Bio Visibility
+Bold: Bold
+Boom!: Boom!
+Browser: Browser
+Built-in: Built-in
+Bulletin: Bulletin
+By clicking the button, you will become a member of the domain {0}.: By clicking the button, you will become a member of the domain {0}.
+By Contest: By Contest
+By Problem: By Problem
+By Username / UID: By Username / UID
+Calculate rp of a domain, or all domains: Calculate rp of a domain, or all domains
+Calendar: Calendar
+Calendar View: Calendar View
 Can be Extended For: Extension
+Cancel: Cancel
+Cancel Score: Cancel Score
+Categories: Categories
+Category: Category
+CDN Prefix: CDN Prefix
+Change Email: Change Email
+Change Password: Change Password
+Chinese: Chinese
+Choose the background image in your profile page.: Choose the background image in your profile page.
+Claim homework: Claim homework
+Claim Homework: Claim Homework
+Claimed: Claimed
+Clear Marks: Clear Marks
+Click here to chat with me: Click here to chat with me
+click to add: click to add
+CLOSE: CLOSE
+Code: Code
+Code blocks: Code blocks
+Code language: Code language
+Code language settings: Code language settings
+collapse: collapse
+Comment: Comment
+Comments: Comments
+CommonMark Syntax: CommonMark Syntax
+Compile Error: Compile Error
+Compilers' Version and Parameters: Compilers' Version and Parameters
+Complete: Complete
+Completed: Completed
+Confirm deleting the selected roles?: Confirm deleting the selected roles?
+Confirm deleting this comment? Its replies will be deleted as well.: Confirm deleting this comment? Its replies will be deleted as well.
+Confirm deleting this reply?: Confirm deleting this reply?
+Confirm removing the selected users?: Confirm removing the selected users?
+Confirmation mail has been sent to your new email.: Confirmation mail has been sent to your new email.
+Congratulations! Your submission is accepted.: Congratulations! Your submission is accepted.
+Contact: Contact
+Contact Us: Contact Us
+content: content
+Content: Content
+contest: contest
+Contest: Contest
+Contest Management: Contest Management
+Contest Scoreboard: Contest Scoreboard
+Contest scoreboard is not visible.: Contest scoreboard is not visible.
 contest_create: Contest Create
-contest_detail_problem_submit: Submit Contest Problem
-contest_detail_problem: Problem Detail
 contest_detail: Contest Detail
+contest_detail_problem: Problem Detail
+contest_detail_problem_submit: Submit Contest Problem
 contest_edit: Contest Edit
 contest_main: Contest
 contest_manage: Contest Management
 contest_problemlist: Problem List
 contest_scoreboard: Scoreboard
 contest_user: Attendee Manage
+Contests per page: Contests per page
+Continue: Continue
+Contributed Problems: Contributed Problems
+Contributions: Contributions
+Copy: Copy
+Copy "{data}" failed :(: Copy "{data}" failed :(
+Copy Email: Copy Email
+Copy failed :(: Copy failed :(
+Copy from: Copy from
+Copy QQ Number: Copy QQ Number
+Copy WeChat Account: Copy WeChat Account
+Copyright Complaint: Copyright Complaint
+CPU Info: CPU Info
+Create: Create
+Create a contest: Create a contest
+Create a Discussion: Create a Discussion
+Create a problem: Create a problem
+Create Contest: Create Contest
+Create contests: Create contests
+Create Discussion: Create Discussion
+Create Discussion in {0}: Create Discussion in {0}
+Create discussions: Create discussions
+Create Domain: Create Domain
+Create homework: Create homework
+Create Homework: Create Homework
+Create Link: Create Link
+Create Problem: Create Problem
+Create problem solutions: Create problem solutions
+Create problems: Create problems
+Create Role: Create Role
+Create Training Plan: Create Training Plan
+Create training plans: Create training plans
+Created By: Created By
+Current dataset comes from: Current dataset comes from
+'Current dataset: {0}': 'Current dataset: {0}'
+current domain: current domain
+Current Email: Current Email
+Current Location: Current Location
+Current Password: Current Password
+Current password doesn't match.: Current password doesn't match.
+Current Status: Current Status
+currently offline: currently offline
+Data of Problem {0} not found.: Data of Problem {0} not found.
+Data of problem {1} not found.: Data of problem {1} not found.
+Data of record {0} not found.: Data of record {0} not found.
+Dataset: Dataset
+Dataset Format: Dataset Format
+Day: Day
+Deadline: Deadline
+Default Code Language: Default Code Language
+Default Code Template: Default Code Template
+Default display language: Default display language
+Default Privilege: Default Privilege
+Delay: Delay
+delete: delete
+Delete: Delete
+Delete a user: Delete a user
+Delete discussion replies: Delete discussion replies
+Delete discussion replies of own discussion: Delete discussion replies of own discussion
+Delete discussions: Delete discussions
+Delete own discussion replies: Delete own discussion replies
+Delete own discussions: Delete own discussions
+Delete own problem solution replies: Delete own problem solution replies
+Delete own problem solutions: Delete own problem solutions
+Delete problem solution replies: Delete problem solution replies
+Delete problem solutions: Delete problem solutions
+Delete Selected Roles: Delete Selected Roles
+Description: Description
+Destination Domain: Destination Domain
+Development: Development
+Difficulty: Difficulty
+Difficulty Algorithm: Difficulty Algorithm
+Difficulty by admin: Difficulty by admin
+Difficulty by algorithm: Difficulty by algorithm
+Difficulty displayed: Difficulty displayed
+Disabled: Disabled
+Discussion: Discussion
+Discussion {1} not found.: Discussion {1} not found.
+Discussion category {1} already exists.: Discussion category {1} already exists.
+Discussion category {1} not found.: Discussion category {1} not found.
+Discussion node {1} already exists.: Discussion node {1} already exists.
+Discussion node {1} not found.: Discussion node {1} not found.
+Discussion Nodes: Discussion Nodes
 discussion_create: Create Discussion
 discussion_detail: Discussion Detail
 discussion_edit: Discussion Edit
 discussion_main: Discussion
 discussion_node: Discussion
+'Discussion: Terms Of Service': 'Discussion: Terms Of Service'
+Discussions: Discussions
+Discussions per page: Discussions per page
+Display Name: Display Name
+Display name {1} you want to set is used by others.: Display name {1} you want to set is used by others.
 display_name: Display Name
+Do not discuss solutions otherwise you will be regarded as cheating and then lose qualifications.: >-
+  Do not discuss solutions otherwise you will be regarded as cheating and then
+  lose qualifications.
+Document {2} not found.: Document {2} not found.
+domain: domain
+Domain: Domain
+Domain {0} already exists.: Domain {0} already exists.
+Domain {0} is bulit-in and cannot be modified.: Domain {0} is bulit-in and cannot be modified.
+Domain {0} not found.: Domain {0} not found.
+Domain ID: Domain ID
+Domain ID cannot be changed once the domain is created.: Domain ID cannot be changed once the domain is created.
 domain_dashboard: Dashboard
 domain_discussion: Discussion Nodes
 domain_edit: Edit Info
+domain_file: domain_file
 domain_group: Manage Groups
+domain_join: domain_join
 domain_join_applications: Join Applications
 domain_main: Main
 domain_permission: System Permission
 domain_role: System Role
 domain_user: System User
+Don't have an account?: Don't have an account?
+Done: Done
+Download: Download
+Download Dataset: Download Dataset
+Download link copied to clipboard!: Download link copied to clipboard!
+Downvote: Downvote
+Duration: Duration
+Duration (hours): Duration (hours)
+Edit: Edit
+Edit any contests: Edit any contests
+Edit any homework: Edit any homework
+Edit Contest: Edit Contest
+Edit description of this domain: Edit description of this domain
+Edit discussion replies: Edit discussion replies
+Edit discussion replies of own discussion: Edit discussion replies of own discussion
+Edit discussions: Edit discussions
+Edit Domain: Edit Domain
+Edit domain settings: Edit domain settings
+Edit Homework: Edit Homework
+Edit own contests: Edit own contests
+Edit own discussion replies: Edit own discussion replies
+Edit own discussions: Edit own discussions
+Edit own homework: Edit own homework
+Edit own problem solution replies: Edit own problem solution replies
+Edit own problem solutions: Edit own problem solutions
+Edit own problems: Edit own problems
+Edit own training plans: Edit own training plans
+Edit permissions of a role: Edit permissions of a role
+Edit Problem: Edit Problem
+Edit problem solution replies: Edit problem solution replies
+Edit problem solutions: Edit problem solutions
+Edit problems: Edit problems
+Edit Profile: Edit Profile
+Edit training plans: Edit training plans
+Effects only when Difficulty is not 'Use algorithm calculated'.: Effects only when Difficulty is not 'Use algorithm calculated'.
+Email: Email
+Email Visibility: Email Visibility
+Enabled: Enabled
+End at: End at
+End Date: End Date
+End Time: End Time
+EndPoint for judge: EndPoint for judge
+EndPoint for user: EndPoint for user
+Enroll Training: Enroll Training
+Enrolled: Enrolled
+Enrollees: Enrollees
+Enter Edit Mode: Enter Edit Mode
+error: error
+Evaluated difficulty: Evaluated difficulty
+expand: expand
+Expire: Expire
+Export All Code: Export All Code
+Export as {0}: Export as {0}
+Extension (days): Extension (days)
+Extension Score Penalty: Extension Score Penalty
+Failed to join the domain. You are already a member.: Failed to join the domain. You are already a member.
+Feedback: Feedback
+Field {0} or {1} validation failed.: Field {0} or {1} validation failed.
+Field {0} or {1} validation failed. ({2}): Field {0} or {1} validation failed. ({2})
+Field {0} validation failed.: Field {0} validation failed.
+Field {0} validation failed. ({2}): Field {0} validation failed. ({2})
+Filter: Filter
+Footer: Footer
+Forgot Password and/or Username: Forgot Password and/or Username
+Forgot password or username?: Forgot password or username?
+'Format: category 1, sub category 1.1, sub category 1.2, ..., sub category 1.x, ..., category n, sub category n.1, sub category n.2, ..., sub category n.m, ...': >-
+  Format: category 1, sub category 1.1, sub category 1.2, ..., sub category 1.x,
+  ..., category n, sub category n.1, sub category n.2, ..., sub category n.m,
+  ...
+Formula blocks: Formula blocks
 fs_upload: File Upload
+Gender: Gender
+Gender Visibility: Gender Visibility
+Hard Deadline: Hard Deadline
+Hash: Hash
+Have ALL PERMISSIONS in this domain: Have ALL PERMISSIONS in this domain
+He: He
+Help: Help
+Hidden: Hidden
+Hide all tags: Hide all tags
+Hide categorical tags: Hide categorical tags
+Hide Selected: Hide Selected
+highlight: highlight
+Highlight: Highlight
+Highlight discussions: Highlight discussions
+Hint: Hint
 home_account: Account Settings
+home_domain: My Domains
 home_domain_account: Profile @ Domain
 home_domain_create: Create Domain
-home_domain: My Domains
+home_files: home_files
 home_messages: Messages
 home_preference: Preference
 home_security: Security
 homepage: Home
+Homepage Config: Homepage Config
+Homework: Homework
+Homework Introduction: Homework Introduction
+Homework scoreboard is not visible.: Homework scoreboard is not visible.
 homework_create: Homework Create
+homework_detail: homework_detail
+homework_detail_problem: homework_detail_problem
 homework_detail_problem_submit: Submit Homework Problem
 homework_edit: Homework Edit
 homework_main: Homework
 homework_scoreboard: Scoreboard
+homework_status: homework_status
+Homeworks per page: Homeworks per page
+Host: Host
+hour(s): hour(s)
+If enabled, source code will be emailed to you after the submission is accepted.: >-
+  If enabled, source code will be emailed to you after the submission is
+  accepted.
+If left blank, the built-in template of the corresponding language will be used.: >-
+  If left blank, the built-in template of the corresponding language will be
+  used.
+Images: Images
+Import: Import
+Import from: Import from
+Import From Hydro: Import From Hydro
+Import Problem: Import Problem
+Import User: Import User
+In 1 day: In 1 day
+In 1 month: In 1 month
+In 1 week: In 1 week
+In 3 days: In 3 days
+In 3 hours: In 3 hours
+In following contests: In following contests
+In following homework: In following homework
+In following training plans: In following training plans
+In Progress: In Progress
+Information: Information
+Init Discussion Nodes: Init Discussion Nodes
+Initialize: Initialize
+Inline codes: Inline codes
+Inline formulas: Inline formulas
+Input Format: Input Format
+Insert Code: Insert Code
+Insert Image: Insert Image
+Installed Modules: Installed Modules
+Instant Rendering: Instant Rendering
+Instead of copying the test data directly, the test data of the copied problems will be linked to the test data of the source problems (called the source test data). Thus, the copied problems can observe the changes in the source test data. The permissions of the test data of the copied problems follow the source test data, e.g., you still might not download them but the judges can. By uploading some new test data, the link will be broken and the new test data will be used.: >-
+  Instead of copying the test data directly, the test data of the copied
+  problems will be linked to the test data of the source problems (called the
+  source test data). Thus, the copied problems can observe the changes in the
+  source test data. The permissions of the test data of the copied problems
+  follow the source test data, e.g., you still might not download them but the
+  judges can. By uploading some new test data, the link will be broken and the
+  new test data will be used.
+Introduce: Introduce
+Introduce must not exceed 500 characters and it will be shown in the list view.: >-
+  Introduce must not exceed 500 characters and it will be shown in the list
+  view.
+Invalid: Invalid
+Invalid password for user {0}.: Invalid password for user {0}.
+Invitation Code: Invitation Code
+IO: IO
+Is rated: Is rated
+It works!: It works!
+Italic: Italic
+Join: Join
+Join {0}: Join {0}
+Judge Status: Judge Status
 judge_playground: Judge Playground
+Judged At: Judged At
+Judged By: Judged By
+Judging Queue: Judging Queue
+Keep current expiration: Keep current expiration
+Language: Language
+last active at: last active at
+last login at: last login at
+Last Submit At: Last Submit At
+Last Update At: Last Update At
+LaTeX Expressions: LaTeX Expressions
+Learn More: Learn More
+Leave blank to use numeric pid.: Leave blank to use numeric pid.
+Leave Edit Mode: Leave Edit Mode
+Limit And Hint: Limit And Hint
+Limitations: Limitations
+Links: Links
+List View: List View
+Live: Live
+Live...: Live...
+Location: Location
+Lock discussions: Lock discussions
+Lock Topic: Lock Topic
+Login: Login
+Login to Attend Contest: Login to Attend Contest
+Login to Claim Homework: Login to Claim Homework
+Login to Create a Discussion: Login to Create a Discussion
+Login to join training plan: Login to join training plan
+Login to Submit: Login to Submit
+Logout: Logout
+Logout All Sessions: Logout All Sessions
+Logout This Session: Logout This Session
+Lost Password: Lost Password
+Lucky: Lucky
+Mail From: Mail From
 main: Home
+manage: System Manage
+Manage: Manage
 manage_dashboard: System
+manage_join_applications: manage_join_applications
 manage_module: Module Management
 manage_script: Scripts
 manage_setting: System Settings
 manage_user_import: Import Users
-manage: System Manage
-no_translation_warn: <blockquote class="warn">This part of content is under translation.</blockquote>
+Manager: Manager
+Mark Green: Mark Green
+Mark Yellow: Mark Yellow
+Max files for user: Max files for user
+Max files per problem: Max files per problem
+Max files size per problem: Max files size per problem
+Max pretest count per minute: Max pretest count per minute
+Max submission count per minute: Max submission count per minute
+Max total file size for user: Max total file size for user
+Memory: Memory
+Memory Cost: Memory Cost
+Memory Info: Memory Info
+Message {0} not found.: Message {0} not found.
+Messages: Messages
+Method: Method
+monacoTheme: monacoTheme
+Month: Month
+Monthly Popular: Monthly Popular
+Most Upvoted Solutions: Most Upvoted Solutions
+My Domains: My Domains
+My Files: My Files
+My Profile: My Profile
+My Recent Submissions: My Recent Submissions
+My Role: My Role
+My status: My status
+name: name
+Name: Name
+Network error: Network error
+Never expire: Never expire
+New: New
+New dataset: New dataset
+New Email: New Email
+New file: New file
+New Password: New Password
+New Training Plan: New Training Plan
+'No': 'No'
+No comments so far...: No comments so far...
+No dataset at present.: No dataset at present.
+no discussion yet...: no discussion yet...
+No Permission to Attend Contest: No Permission to Attend Contest
+No Permission to Claim Homework: No Permission to Claim Homework
+No Permission to Create a Discussion: No Permission to Create a Discussion
+No Permission to Submit: No Permission to Submit
+No problem.: No problem.
+No solutions so far...: No solutions so far...
+No Submissions: No Submissions
+No testdata at current.: No testdata at current.
+No user is allowed to join this domain: No user is allowed to join this domain
+no_translation_warn: >-
+  <blockquote class="warn">This part of content is under
+  translation.</blockquote>
+None: None
+Not Attended: Not Attended
+Not available: Not available
+Not Claimed: Not Claimed
+Not Enrolled: Not Enrolled
+Not started with a number: Not started with a number
+Not wrapped with space: Not wrapped with space
+'Note: Problem title may not be hidden.': 'Note: Problem title may not be hidden.'
+Numeric PID: Numeric PID
+Oh, the user doesn't have any contributions!: Oh, the user doesn't have any contributions!
+Oh, the user hasn't created any discussions yet!: Oh, the user hasn't created any discussions yet!
+Oh, the user hasn't submitted yet!: Oh, the user hasn't submitted yet!
+Oh, there is no task in the queue!: Oh, there is no task in the queue!
+Oh, there is no task that matches the filter!: Oh, there is no task that matches the filter!
+Ok: Ok
+Only A-Z, a-z, 0-9 and _ are accepted: Only A-Z, a-z, 0-9 and _ are accepted
+Oops, there are no results.: Oops, there are no results.
+Oops!: Oops!
+Open: Open
+Open in Problem Set: Open in Problem Set
+Open Scratchpad: Open Scratchpad
+Open Since: Open Since
+Open Source: Open Source
+Operating System: Operating System
+Ops: Ops
+Or, with automatically filled invitation code: Or, with automatically filled invitation code
+Ordered List: Ordered List
+Original Score: Original Score
+'Original score: {0}': 'Original score: {0}'
+OS Info: OS Info
+Output Format: Output Format
+Owner: Owner
 page.problem_detail.sidebar.show_category: Click to Show
 page.training_detail.invalid_when_not_enrolled: You cannot view problem details unless enrolled.
 page.training_detail.see_other_user_detail: You are viewing user {0} training details.
@@ -56,15 +558,53 @@ pager_first: « First
 pager_last: Last »
 pager_next: Next ›
 pager_previous: ‹ Previous
+Params: Params
+Partic.: Partic.
+Password: Password
+Password reset mail has been sent to your email.: Password reset mail has been sent to your email.
+Passwords don't match.: Passwords don't match.
+Path {0} not found.: Path {0} not found.
+Peak Memory: Peak Memory
+Penalty (Minutes): Penalty (Minutes)
 perm_contest: Contests
 perm_discussion: Discussions
 perm_general: General
 perm_homework: Homework
-perm_problem_solution: Problem Solutions
 perm_problem: Problems
+perm_problem_solution: Problem Solutions
 perm_ranking: Ranking
 perm_record: Records
 perm_training: Trainings
+Permission: Permission
+Permissions: Permissions
+Phone: Phone
+Pick a problem randomly based on current filter: Pick a problem randomly based on current filter
+pid: pid
+Pin discussions: Pin discussions
+Pin training plans: Pin training plans
+Plan: Plan
+Please attend contest to see the problems.: Please attend contest to see the problems.
+Please claim the assignment to see the problems.: Please claim the assignment to see the problems.
+Please select at least one role to perform this operation.: Please select at least one role to perform this operation.
+Please select at least one user to perform this operation.: Please select at least one user to perform this operation.
+preferredEditorType: preferredEditorType
+Pretest: Pretest
+Pretest Data: Pretest Data
+Pretest Your Code: Pretest Your Code
+Pretest?: Pretest?
+Preview: Preview
+Privacy: Privacy
+Problem: Problem
+Problem {1} not found.: Problem {1} not found.
+Problem Categories: Problem Categories
+Problem Data: Problem Data
+Problem Description: Problem Description
+Problem ID List: Problem ID List
+Problem Set: Problem Set
+Problem Settings: Problem Settings
+Problem Solution: Problem Solution
+Problem Solution List: Problem Solution List
+Problem Tags Visibility: Problem Tags Visibility
 problem_create: Problem Create
 problem_detail: Problem Detail
 problem_edit: Problem Edit
@@ -82,28 +622,342 @@ problem.import.input_format: '## Input Format'
 problem.import.limit_and_hint: '## Limits'
 problem.import.output_format: '## Output Format'
 problem.import.problem_description: '## Description'
+Problems: Problems
+Problems per page: Problems per page
+Problems Sets: Problems Sets
+Profile Background Image: Profile Background Image
+Progress: Progress
+Properties: Properties
+Public: Public
+Published at: Published at
+QQ Group: QQ Group
+QQ Visibility: QQ Visibility
+Quit Scratchpad: Quit Scratchpad
+Quote: Quote
+Rank: Rank
 ranking: Ranking
+Read record codes after accept: Read record codes after accept
+Recalculates nSubmit and nAccept in problem status.: Recalculates nSubmit and nAccept in problem status.
+Recommended: Recommended
+Record {0} not found.: Record {0} not found.
 record_detail: Record Detail
 record_main: Record
+Records: Records
+Records per page: Records per page
+Refresh: Refresh
+Refresh Records: Refresh Records
+Registered at: Registered at
+Rejudge: Rejudge
+Rejudge problems: Rejudge problems
+Rejudge records: Rejudge records
+Related: Related
+Related Discussions: Related Discussions
+Relax and try to remember your password.: Relax and try to remember your password.
+Remember me: Remember me
+Remove: Remove
+Remove Selected User: Remove Selected User
+Remove this data: Remove this data
+Repeat Password: Repeat Password
+Replies per page: Replies per page
+reply: reply
+Reply: Reply
+Reply discussions: Reply discussions
+Reply problem solutions: Reply problem solutions
+Report: Report
+required: required
+Reset: Reset
+Reset Password: Reset Password
+Reset Password or Find Username: Reset Password or Find Username
+Restart: Restart
+Role: Role
+Role {1} already exists in domain {0}.: Role {1} already exists in domain {0}.
+Role Assignment: Role Assignment
+Role has been updated to {0} for selected users.: Role has been updated to {0} for selected users.
+Role has been updated to {0}.: Role has been updated to {0}.
+Role name can only contains numbers, letters and underscores.: Role name can only contains numbers, letters and underscores.
+Roles: Roles
+RP Algorithm: RP Algorithm
+Rule: Rule
+Run: Run
+Run Pretest: Run Pretest
+Sample: Sample
+Sample Input: Sample Input
+Sample Output: Sample Output
+Save All Changes: Save All Changes
+Saved session: Saved session
+Saved session expire seconds: Saved session expire seconds
+School: School
+Score: Score
+score canceled: score canceled
+Scoreboard: Scoreboard
+Scoreboard (Hidden): Scoreboard (Hidden)
+Scripts: Scripts
+Search: Search
+Secret: Secret
+Secret (visible to admins): Secret (visible to admins)
+Section: Section
+Security: Security
+Select a node to create discussion.: Select a node to create discussion.
+Select a role: Select a role
+Select User: Select User
+Selected roles have been deleted.: Selected roles have been deleted.
+Selected users have been removed from the domain.: Selected users have been removed from the domain.
+Send: Send
+Send Code after acceptance: Send Code after acceptance
+Send Message: Send Message
+Send Password Reset Email: Send Password Reset Email
+Send Problem: Send Problem
+Send Verification Email: Send Verification Email
+Service Status: Service Status
+Set Role: Set Role
+Set Roles for Selected User: Set Roles for Selected User
+Set Roles for selected users: Set Roles for selected users
+setting_basic: setting_basic
 setting_customize: Customize
 setting_display: Display Preference
+setting_domain: setting_domain
+setting_file: setting_file
 setting_function: Function
-setting_info_domain: Personal Info
 setting_info: Personal Info
+setting_info_domain: Personal Info
 setting_preference: Preference
 setting_privacy: Privacy
 setting_server: Server Settings
 setting_session: Session Settings
 setting_smtp: SMTP Settings
 setting_usage: Usage Preference
+Settings: Settings
+Share: Share
+Share problem with domain (* for any): Share problem with domain (* for any)
+She: She
+Show: Show
+Show all tags: Show all tags
+show invisible characters when formatting code: show invisible characters when formatting code
+Show MOD badge: Show MOD badge
+Sign In: Sign In
+SIGN IN: SIGN IN
+Sign Up: Sign Up
+Sign up mail has been sent to your email.: Sign up mail has been sent to your email.
+Sign Up Now: Sign Up Now
+Size: Size
+SMTP Password: SMTP Password
+SMTP Server Host: SMTP Server Host
+SMTP Server Port: SMTP Server Port
+SMTP Username: SMTP Username
+Solutions per page: Solutions per page
+'Solved {0} problems, RP: {1} (No. {2})': 'Solved {0} problems, RP: {1} (No. {2})'
+Sorry: Sorry
+Sort by: Sort by
+Source type: Source type
+Split by ',' '.': Split by ',' '.'
+Split View: Split View
+Star: Star
+Star Topic: Star Topic
+Starred Problems: Starred Problems
+Start at: Start at
+Statistics: Statistics
+status: status
+Status: Status
+Status is hidden: Status is hidden
+Storage engine accessKey: Storage engine accessKey
+Storage engine bucket: Storage engine bucket
+Storage engine endPoint: Storage engine endPoint
+Storage engine region: Storage engine region
+Storage engine secret: Storage engine secret
+Student ID: Student ID
+Submission: Submission
+Submission Statistics: Submission Statistics
+Submissions: Submissions
+Submit: Submit
+Submitted: Submitted
+Support: Support
+Sync problem filelist from s3 service: Sync problem filelist from s3 service
+Tags: Tags
+Target: Target
+Technical Information: Technical Information
+Temporary session: Temporary session
+Terms of Service: Terms of Service
+Test data comes from: Test data comes from
+Testdata Config: Testdata Config
+Text: Text
+The discussion is locked, you can not reply anymore.: The discussion is locked, you can not reply anymore.
+The homework's deadline is due but in extension. You can still submit for this problem but your score will be penalized.: >-
+  The homework's deadline is due but in extension. You can still submit for this
+  problem but your score will be penalized.
+The invitation code to enter to successfully join the domain. You can only use letters and numbers in the code and it should not be longer than 64 characters.: >-
+  The invitation code to enter to successfully join the domain. You can only use
+  letters and numbers in the code and it should not be longer than 64
+  characters.
+The invitation code you provided is invalid.: The invitation code you provided is invalid.
+The link will be expired at {0}: The link will be expired at {0}
+The role to assign when user joining the domain.: The role to assign when user joining the domain.
+The uploaded file is too long.: The uploaded file is too long.
+The user is already a member of the domain.: The user is already a member of the domain.
+The user is too lazy to leave something here...: The user is too lazy to leave something here...
+The value `{1}` of {0} already exists.: The value `{1}` of {0} already exists.
+Their account will not be deleted and they will be with the default role.: Their account will not be deleted and they will be with the default role.
+theme: theme
+There are no contests...: There are no contests...
+There is no homework so far ╰(*°▽°*)╯: There is no homework so far ╰(*°▽°*)╯
+This contest is not live.: This contest is not live.
+This email was sent by {0} automatically, and please do not reply directly.: This email was sent by {0} automatically, and please do not reply directly.
+This homework is not open and you cannot view problems.: This homework is not open and you cannot view problems.
+This homework is not open.: This homework is not open.
+This is the current session: This is the current session
+This message will be presented to those whose submissions are accepted.: This message will be presented to those whose submissions are accepted.
+This page needs JavaScript to work.: This page needs JavaScript to work.
+This person is lazy and didn't wrote anything.: This person is lazy and didn't wrote anything.
+This section cannot be challenged at present, so please complete the following sections first: >-
+  This section cannot be challenged at present, so please complete the following
+  sections first
+This type of files are not allowed to be uploaded.: This type of files are not allowed to be uploaded.
+Time: Time
+Time (Seconds): Time (Seconds)
+Time Cost: Time Cost
+Time Extension: Time Extension
 timeago_locale: en_US
+Timezone: Timezone
+title: title
+Title: Title
+Toggle Pretest Panel: Toggle Pretest Panel
+Toggle Preview: Toggle Preview
+Toggle Records Panel: Toggle Records Panel
+Total: Total
+Total Score: Total Score
+Total Time: Total Time
+Total Time (Seconds): Total Time (Seconds)
+Training: Training
+Training requirement is not satisfied.: Training requirement is not satisfied.
 training_create: Training Create
 training_detail: Training Detail
 training_edit: Training Edit
 training_main: Training
+Trainings per page: Trainings per page
+Type: Type
+UI Language: UI Language
+Uncompleted: Uncompleted
+Unhide Selected: Unhide Selected
+Unique: Unique
+Unknown: Unknown
+Unknown field {0}.: Unknown field {0}.
+Unlock Topic: Unlock Topic
+Unordered List: Unordered List
+Unsaved session expire seconds: Unsaved session expire seconds
+Unstar: Unstar
+Unstar Topic: Unstar Topic
+Update: Update
+Update Permission: Update Permission
+Update Settings: Update Settings
+Upload: Upload
+Upload File: Upload File
+Upload Problem: Upload Problem
+Uploaded By: Uploaded By
+Upvote: Upvote
+Usage exceeded.: Usage exceeded.
+Use admin specificed: Use admin specificed
+Use algorithm calculated: Use algorithm calculated
+Use average of above: Use average of above
+User: User
+User {0} already exists.: User {0} already exists.
+User {0} mentioned you in {1:link}: User {0} mentioned you in {1:link}
+User {0} not found.: User {0} not found.
+User can join this domain by visiting the following URL: User can join this domain by visiting the following URL
+User ID: User ID
+User will no longer be allowed to join the domain after expiration.: User will no longer be allowed to join the domain after expiration.
 user_detail: User Detail
 user_login: Login
 user_logout: Logout
 user_lostpass: Lost Password
 user_register: Register
+user_register_mail_sent: user_register_mail_sent
+User-defined role: User-defined role
+Username: Username
+Username / UID: Username / UID
+Users: Users
+Users with those roles will be removed from the domain.: Users with those roles will be removed from the domain.
+Using your {0} universal account: Using your {0} universal account
+Valid for registered users who are not members of the domain: Valid for registered users who are not members of the domain
+Valid for visitors: Valid for visitors
+Verify register email: Verify register email
+Version: Version
+View: View
+View Contest: View Contest
+View contest scoreboard: View contest scoreboard
+View contests: View contests
+View Details: View Details
+View discussions: View discussions
+View domain user displayname: View domain user displayname
+View hidden contest submission status and scoreboard: View hidden contest submission status and scoreboard
+View hidden homework submission status and scoreboard: View hidden homework submission status and scoreboard
+View hidden problems: View hidden problems
+View homework: View homework
+View Homework: View Homework
+View homework scoreboard: View homework scoreboard
+View or create discussion: View or create discussion
+View or submit solution: View or submit solution
+View Owned Problems: View Owned Problems
+View Owned Training Plans: View Owned Training Plans
+View Problem: View Problem
+View problem solutions: View problem solutions
+View problem solutions after accept: View problem solutions after accept
+View problems: View problems
+View ranking: View ranking
+View this domain: View this domain
+View training plans: View training plans
+Visible to registered users: Visible to registered users
+Visit: Visit
+Vote: Vote
+Vote problem solutions: Vote problem solutions
+We will check code similarity after this contest.: We will check code similarity after this contest.
+WeChat: WeChat
+WeChat Visibility: WeChat Visibility
+Week: Week
+What is domain?: What is domain?
+What is this?: What is this?
+What's domain?: What's domain?
+What's file?: What's file?
+What's script?: What's script?
+What's this?: What's this?
+Whether to show tags in the problem list.: Whether to show tags in the problem list.
 wiki_help: Help
+Will be used as the domain icon.: Will be used as the domain icon.
+With this feature, you can copy problems that you can view from a domain to some other domain. Their title, content, tags and categories will be copied. However, their test data are not copied directly.: >-
+  With this feature, you can copy problems that you can view from a domain to
+  some other domain. Their title, content, tags and categories will be copied.
+  However, their test data are not copied directly.
+With this feature, you can import problems that you can view from a site to here. Their title, content, tags and categories will be imported.: >-
+  With this feature, you can import problems that you can view from a site to
+  here. Their title, content, tags and categories will be imported.
+With this feature, you can import problems that you can view from a site to here. Their title, content, tags and categories will be imported. However, their test data are not copied directly.: >-
+  With this feature, you can import problems that you can view from a site to
+  here. Their title, content, tags and categories will be imported. However,
+  their test data are not copied directly.
+Write Your Comment: Write Your Comment
+Write Your Solution: Write Your Solution
+WYSIWYG: WYSIWYG
+Year: Year
+'Yes': 'Yes'
+You are not allowed to join the domain. The link is either invalid or expired.: You are not allowed to join the domain. The link is either invalid or expired.
+You can create your own training plans and share with others.: You can create your own training plans and share with others.
+You cannot submit for this problem because the contest is ended. You can click "Open in Problem Set" to view this problem in normal mode.: >-
+  You cannot submit for this problem because the contest is ended. You can click
+  "Open in Problem Set" to view this problem in normal mode.
+You cannot submit for this problem because the homework's deadline is due.: You cannot submit for this problem because the homework's deadline is due.
+You cannot visit this domain.: You cannot visit this domain.
+You don't have the required permission ({0}) in this domain.: You don't have the required permission ({0}) in this domain.
+You don't have the required privilege.: You don't have the required privilege.
+You don't own any domain and don't have privilege to create domain.: You don't own any domain and don't have privilege to create domain.
+You have not submitted any solutions for this problem: You have not submitted any solutions for this problem
+You have permissions to create problems for this domain.: You have permissions to create problems for this domain.
+You have uncompleted domain creation operation. You can click "Continue" to finish the creation.: >-
+  You have uncompleted domain creation operation. You can click "Continue" to
+  finish the creation.
+You haven't attended this contest yet.: You haven't attended this contest yet.
+You haven't claimed this homework yet.: You haven't claimed this homework yet.
+You need to enter the invitation code to join the domain.: You need to enter the invitation code to join the domain.
+You're not logged in.: You're not logged in.
+You've already attended this contest.: You've already attended this contest.
+You've already claimed this homework.: You've already claimed this homework.
+You've already voted.: You've already voted.
+Your permission: Your permission
+Your role: Your role
