@@ -1,109 +1,109 @@
-__id: en
-__langname: English
-Can be Extended For: Extension
-contest_create: Contest Create
-contest_detail_problem_submit: Submit Contest Problem
+__id: ko
+__langname: 한국어
+Can be Extended For: 추가 접수
+contest_create: 대회 생성
+contest_detail_problem_submit: 대회 상세 문제 제출
 contest_detail_problem: Problem Detail
 contest_detail: Contest Detail
-contest_edit: Contest Edit
-contest_main: Contest
+contest_edit: 대회 수정
+contest_main: 대회
 contest_manage: Contest Management
 contest_problemlist: Problem List
-contest_scoreboard: Scoreboard
+contest_scoreboard: 대회 점수판
 contest_user: Attendee Manage
-discussion_create: Create Discussion
+discussion_create: 토론 생성
 discussion_detail: Discussion Detail
-discussion_edit: Discussion Edit
-discussion_main: Discussion
-discussion_node: Discussion
-display_name: Display Name
-domain_dashboard: Dashboard
-domain_discussion: Discussion Nodes
-domain_edit: Edit Info
+discussion_edit: 토론 수정
+discussion_main: 토론
+discussion_node: 토론
+display_name: 이름
+domain_dashboard: 그룹 게시판
+domain_discussion: 그룹 토론
+domain_edit: 그룹 수정
 domain_group: Manage Groups
-domain_join_applications: Join Applications
-domain_main: Main
-domain_permission: System Permission
-domain_role: System Role
-domain_user: System User
-fs_upload: File Upload
-home_account: Account Settings
-home_domain_account: Profile @ Domain
-home_domain_create: Create Domain
-home_domain: My Domains
-home_messages: Messages
-home_preference: Preference
-home_security: Security
-homepage: Home
-homework_create: Homework Create
-homework_detail_problem_submit: Submit Homework Problem
-homework_edit: Homework Edit
-homework_main: Homework
-homework_scoreboard: Scoreboard
-judge_playground: Judge Playground
+domain_join_applications: 그룹 참여 요청
+domain_main: 그룹
+domain_permission: 그룹 권한
+domain_role: 그룹 역할
+domain_user: 그룹 구성원
+fs_upload: 업로드
+home_account: 계정
+home_domain_account: 그룹 계정
+home_domain_create: 그룹 생성
+home_domain: 그룹
+home_messages: 메시지
+home_preference: 설정
+home_security: 보안
+homepage: 홈
+homework_create: 과제 만들기
+homework_detail_problem_submit: 과제 상세 문제 제출
+homework_edit: 과제 수정
+homework_main: 과제
+homework_scoreboard: 과제 점수판
+judge_playground: 놀이터
 main: Home
-manage_dashboard: System
-manage_module: Module Management
-manage_script: Scripts
-manage_setting: System Settings
-manage_user_import: Import Users
-manage: System Manage
+manage_dashboard: 대시보드 관리
+manage_module: 모듈 관리
+manage_script: 스크립트 관리
+manage_setting: 설정 관리
+manage_user_import: 사용자 불러오기
+manage: 관리
 no_translation_warn: <blockquote class="warn">This part of content is under translation.</blockquote>
-page.problem_detail.sidebar.show_category: Click to Show
-page.training_detail.invalid_when_not_enrolled: You cannot view problem details unless enrolled.
+page.problem_detail.sidebar.show_category: 분류 표시
+page.training_detail.invalid_when_not_enrolled: 학습에 참여하지 않았습니다.
 page.training_detail.see_other_user_detail: You are viewing user {0} training details.
 pager_first: '« First'
 pager_last: Last »
-pager_next: Next ›
+pager_next: 페이지
 pager_previous: '‹ Previous'
-perm_contest: Contests
-perm_discussion: Discussions
-perm_general: General
-perm_homework: Homework
-perm_problem_solution: Problem Solutions
-perm_problem: Problems
-perm_ranking: Ranking
-perm_record: Records
-perm_training: Trainings
-problem_create: Problem Create
+perm_contest: 대회
+perm_discussion: 토론
+perm_general: 일반
+perm_homework: 과제
+perm_problem_solution: 해설
+perm_problem: 문제
+perm_ranking: 랭킹
+perm_record: 제출
+perm_training: 학습
+problem_create: 문제 만들기
 problem_detail: Problem Detail
-problem_edit: Problem Edit
+problem_edit: 문제 수정
 problem_files: Problem Files
-problem_import: Import Problem
-problem_main: Problem Set
-problem_solution: Problem Solution
-problem_statistics: Problem Statistics
-problem_submit: Problem Submit
+problem_import: 문제 가져오기
+problem_main: 문제
+problem_solution: 문제 해설
+problem_statistics: 문제 통계
+problem_submit: 제출
 problem-category-delim: '|'
-problem-subcategory-delim: ', '
+problem-subcategory-delim: '、'
 problem.import.additional_file: '## Additional Files'
 problem.import.hint: '## Hint'
-problem.import.input_format: '## Input Format'
+problem.import.input_format: '## Input'
 problem.import.limit_and_hint: '## Limits'
-problem.import.output_format: '## Output Format'
+problem.import.output_format: '## Output'
 problem.import.problem_description: '## Description'
-ranking: Ranking
-record_detail: Record Detail
-record_main: Record
-setting_customize: Customize
-setting_display: Display Preference
+ranking: 순위
+record_detail: 제출 세부사항
+record_main: 제출 기록
+setting_customize: 개인 설정
+setting_display: 표시 설정
 setting_function: Function
-setting_info_domain: Personal Info
-setting_info: Personal Info
+setting_info_domain: 그룹 정보 설정
+setting_info: 정보 설정
 setting_preference: Preference
-setting_privacy: Privacy
-setting_server: Server Settings
-setting_session: Session Settings
-setting_smtp: SMTP Settings
-setting_usage: Usage Preference
-timeago_locale: en_US
-training_create: Training Create
+setting_privacy: 개인정보 설정
+setting_server: 서버 설정
+setting_session: 세션 설정
+setting_smtp: SMTP 설정
+setting_usage: 언어 설정
+timeago_locale: ko
+training_create: 학습 만들기
 training_detail: Training Detail
-training_edit: Training Edit
-training_main: Training
-user_detail: User Detail
-user_login: Login
-user_logout: Logout
-user_lostpass: Lost Password
-user_register: Register
-wiki_help: Help
+training_edit: 학습 수정
+training_main: 학습
+user_detail: 사용자 세부사항
+user_login: 로그인
+user_logout: 로그아웃
+user_lostpass: 비밀번호 분실
+user_register: 회원가입
+wiki_help: Wiki Help
